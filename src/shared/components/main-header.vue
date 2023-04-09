@@ -6,7 +6,7 @@
                     <router-link to="/">home</router-link>
                 </li>
                 <li>
-                    <router-link to="/about">about</router-link>
+                    <router-link to="/users">users</router-link>
                 </li>
             </ul>
             <ul>
@@ -17,8 +17,6 @@
         </nav>
     </div>
 </template>
-<script lang="ts" setup>
-</script>
 <style lang="scss">
 .header {
     width: 100%;
